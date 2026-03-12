@@ -1,0 +1,53 @@
+{
+  "categorias": [
+    {
+      "nome": "Bares",
+      "descricao": "Lugar para descansar ",
+      "id": 1
+    },
+    {
+      "nome": "Restaurantes",
+      "descricao": "Lugar para aproveitar com a família e comer uma boa comida ",
+      "id": 2
+    },
+    {
+      "nome": "Praias ",
+      "descricao": "Lugar para aproveitar com a família ",
+      "id": 3
+    }
+  ],
+  "lugares": [
+    {
+      "nome": "Praia do flamengo ",
+      "categoria": "Praias ",
+      "localizacao": "Bahia",
+      "urlFoto": "https://static.wixstatic.com/media/954288_0f1e5793d5dd45c698c07a7560b2104b~mv2.jpg/v1/fill/w_776,h_410,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/954288_0f1e5793d5dd45c698c07a7560b2104b~mv2.jpg",
+      "avaliacao": "4",
+      "id": 1
+    },
+    {
+      "nome": "Riviera Bar",
+      "categoria": "Bares",
+      "localizacao": "São Paulo",
+      "urlFoto": "https://viagemegastronomia.cnnbrasil.com.br/wp-content/uploads/sites/5/2022/02/Riviera-Bar-1.jpg?w=849&h=477&crop=0",
+      "avaliacao": "3",
+      "id": 2
+    },
+    {
+      "nome": "Vasto",
+      "categoria": "Restaurantes",
+      "localizacao": "Brasília ",
+      "urlFoto": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/eb/30/83/fachada-vasto.jpg?w=900&h=500&s=1",
+      "avaliacao": "4",
+      "id": 3
+    },
+    {
+      "nome": "Cabo Branco",
+      "categoria": "Praias ",
+      "localizacao": "João Pessoa",
+      "urlFoto": "https://imgmd.net/images/v1/guia/2663035/praia-de-cabo-branco.jpg",
+      "avaliacao": "4",
+      "id": 4
+    }
+  ]
+}
